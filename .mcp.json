@@ -1,0 +1,14 @@
+{
+  "mcpServers": {
+    "mamba-medium-articles-scraper": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "@mambalabsdev/mcp-medium-articles-scraper"
+      ],
+      "env": {
+        "APIFY_TOKEN": "your-apify-token"
+      }
+    }
+  }
+}
