@@ -1,6 +1,6 @@
 {
   "name": "@mambalabsdev/mcp-medium-articles-scraper",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "MCP server for Medium Articles Scraper: Medium stories by tag, author, or publication with claps and responses.",
   "type": "module",
   "bin": {
