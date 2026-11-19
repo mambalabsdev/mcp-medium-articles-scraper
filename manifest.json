@@ -1,7 +1,7 @@
 {
   "manifest_version": "0.3",
   "name": "mcp-medium-articles-scraper",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "MCP server for Medium Articles Scraper: Medium stories by tag, author, or publication with claps and responses.",
   "author": {
     "name": "Mamba Labs"
